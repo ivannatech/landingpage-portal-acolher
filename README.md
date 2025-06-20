@@ -13,6 +13,12 @@ Landing Page responsiva e otimizada com foco em conversão para o **Portal de At
 - ✅ Otimização para SEO com metatags personalizadas
 - ✅ Favicon e estrutura pronta para integração futura com e-mail marketing
 
+## 📸 Preview
+
+![Screenshot](./assets/img/preview-image.png) 
+
+[👉 Clique aqui para visitar a página](https://landingpage-portal-acolher.vercel.app)
+
 ## 🛠️ Tecnologias Utilizadas
 
 - HTML5
@@ -35,3 +41,8 @@ Se quiser adaptar este projeto para seu negócio, entre em contato comigo por e-
 - ✉️ ivannatech@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/ivanna-almeida/)
 - 🖥️ [GitHub](https://github.com/ivannatech)
+
+---
+
+> Este projeto é parte de um portfólio de desenvolvedora web freelancer e está disponível para uso não-comercial ou como base para novos projetos personalizados.
+
